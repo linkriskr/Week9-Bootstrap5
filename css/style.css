@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    height: 75vh;
+    object-fit: cover;
+}
+
+.carousel-control-prev {
+    left: 10%;
+}
+
+.carousel-control-next {
+    right: 10%;
+}
+
+.row {
+    margin: 0;
+}
+
+.marketing {
+    text-align: center;
+}
+
+.marketing h2 {
+    font-size: 3rem;
+    margin-bottom: 7rem;
+    margin-top: 2rem;
+}
+
+.float-right {
+    float: right;
+}
